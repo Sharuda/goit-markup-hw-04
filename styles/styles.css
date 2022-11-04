@@ -320,12 +320,11 @@ p{
 .text-team{
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-right: 32px;
-    padding-left: 32px;
 }
 .list-social{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 10px;
     margin-top: 16px;
 }
 
